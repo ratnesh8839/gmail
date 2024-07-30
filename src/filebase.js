@@ -4,7 +4,7 @@ import { getAnalytics } from "firebase/analytics";
 import { getAuth, GoogleAuthProvider } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 const firebaseConfig = {
-  apiKey: "AIzaSyB0LV5kDYZmS6285KqCqAbDsCckMr_-DFg",
+  apiKey: "Your API key",
   authDomain: "clone-41146.firebaseapp.com",
   projectId: "clone-41146",
   storageBucket: "clone-41146.appspot.com",
